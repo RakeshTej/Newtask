@@ -1,0 +1,4 @@
+import numpy as np
+a = np.array([[[0],[2],[5]]])
+print(a)
+print(a.shape)
